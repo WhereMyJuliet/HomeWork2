@@ -75,3 +75,9 @@ prev.onclick = () => {
 }
 
 autoSlider(index)
+
+
+const obj = {
+    name: 'nurdin',
+    age: 20
+}
